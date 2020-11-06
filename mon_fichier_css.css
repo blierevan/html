@@ -1,8 +1,105 @@
 .time {
-  border: 0px;
+  border: -1px;
   vertical-align: top;
   position: relative;
-  top: -13px;
+  top: 0px;
   font-weight: lighter;
   text-align: right;
+}
+
+.style {
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.center{
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+
+td {
+  text-align: center;
+  width: 1px;
+  
+}
+
+.border{
+  border: 0px;
+}
+.rougefoncé{
+  background-color: crimson;
+}
+.violet{
+  background-color: mediumpurple;
+}
+.rouge{
+  background-color: indianred;
+}
+.gris{
+  background-color: grey;
+}
+
+.jaune{
+  background-color:yellow
+}
+
+.bleu{
+  background-color: lightblue;
+}
+.orange{
+  background-color: lightsalmon;
+}
+
+.rose{
+  background-color: pink;
+}
+.vert{
+  background-color: aquamarine;
+}
+.min5 {
+  height: 5px;
+}
+
+.min10 {
+  height: 10px;
+}
+
+.min15{
+  height: 15px;
+}
+
+.min20{
+  height: 20px;
+}
+
+.min25{
+  height: 25px;
+}
+
+.min30{
+  height: 30px;
+}
+
+.min35{
+  height: 35px;
+}
+
+.min40{
+  height: 40px;
+}
+
+.min45{
+  height: 45px;
+}
+
+.min50{
+  height: 50px;
+}
+
+.min55{
+  height: 55px;
 }
